@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Luna 🌜</h1>
 
+[![](https://wakatime.com/badge/user/a1ed5f07-56c4-4c2d-bfa4-dc11d4f35604.svg?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/STARBURST-AUDIO-blueviolet?style=for-the-badge)](https://github.com/starburstaudio)
+
 * 🙋🏻‍♀️ Pronouns: she/they
 * 🌍 Location: Germany
 
@@ -21,6 +24,8 @@ Mainly, I use:
 ### Programming languages
 ![](https://skillicons.dev/icons?i=js,rust,cpp,java,py&theme=light)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=223230&layout=compact)](#)
+
 ### Front-end tools
 ![](https://skillicons.dev/icons?i=react,vue,sass,tailwind,electron&theme=light)
 
@@ -29,9 +34,13 @@ Mainly, I use:
 
 ### Editors
 ![](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,neovim&theme=light)
+ 
+Recently, I switched to IntelliJ products (**CLion** and **WebStorm**)
 
 ### Software
 ![](https://skillicons.dev/icons?i=blender,ai,ps,figma,ableton,discord&theme=light)
+
+and much more...
 
 ### Other
 ![](https://skillicons.dev/icons?i=latex,linux,powershell,bash,processing,regex&theme=light)
